@@ -1,0 +1,2 @@
+Ide : 
+  -Node berisi informasi dir seperti nama , asal, ttl, sma mana, ID []
