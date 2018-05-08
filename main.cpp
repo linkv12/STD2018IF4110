@@ -1,3 +1,8 @@
+/*  STD , Telkom University
+*   Affan Hasby
+*   M.Mahfi Nurandi K.
+*/
+
 #include <iostream>
 using namespace std;
 #include "ui.h"
